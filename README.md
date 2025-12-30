@@ -22,7 +22,7 @@ Testing Documentation
 
 - [Checklists](https://github.com/Steven222003/checklist)
 - [Test-Suites and Test-Cases](https://github.com/Steven222003/test-cases)
-- [Bug-Reports]
+- [Bug-Reports](https://github.com/Steven222003/bug-reports)
 - [SQL Queries]
 - [Postman Collection]
 
