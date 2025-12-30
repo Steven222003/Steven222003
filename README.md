@@ -24,7 +24,7 @@ Testing Documentation
 - [Test-Suites and Test-Cases](https://github.com/Steven222003/test-cases)
 - [Bug-Reports](https://github.com/Steven222003/bug-reports)
 - [SQL Queries](https://github.com/Steven222003/sql-queries)
-- [Postman Collection]
+- [Postman Collection](https://github.com/Steven222003/postman-collections)
 
 Follow me
 
