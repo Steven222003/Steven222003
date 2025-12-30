@@ -21,7 +21,7 @@ Languages and Tools
 Testing Documentation
 
 - [Checklists](https://github.com/Steven222003/checklist)
-- [Test-Suites and Test-Cases]
+- [Test-Suites and Test-Cases](https://github.com/Steven222003/test-cases)
 - [Bug-Reports]
 - [SQL Queries]
 - [Postman Collection]
