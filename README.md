@@ -20,9 +20,14 @@ Languages and Tools
 
 Testing Documentation
 
+- [Checklists]
+- [Test-Suites and Test-Cases]
+- [Bug-Reports]
+- [SQL Queries]
+- [Postman Collection]
 
 Follow me
 
 [![Telegram](https://shields.fly.dev/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=)](https://t.me/steven200318)
 [![Vkontakte](https://shields.fly.dev/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/@sborovik2018)
-[![Anurag's github status](https://github-readme-stats.vercel.app/api&username=Steven222003&show_icons=true)](https://github.com/Steven220003/github-readme-stats)
+
