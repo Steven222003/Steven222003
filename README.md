@@ -12,7 +12,6 @@ Languages and Tools
 ![SOUPUI](https://shields.fly.dev/badge/-SOUPUI-090909?style=for-the-badge&logo=SOUPUI&logoColor=81E42D)
 ![CHARLESPROXY](https://shields.fly.dev/badge/-CHARLESPROXY-090909?style=for-the-badge&logo=Charlesproxy&logoColor=)
 ![DEVTOOLS](https://shields.fly.dev/badge/-DEVTOOLS-090909?style=for-the-badge&logo=GoogleChrome&logoColor=)
-![FIGMA](https://shields.fly.dev/badge/-FIGMA-090909?style=for-the-badge&logo=FIGMA&logoColor=)
 ![MYSQL](https://shields.fly.dev/badge/-MYSQL-090909?style=for-the-badge&logo=MYSQL&logoColor=)
 ![POSTGRESQL](https://shields.fly.dev/badge/-POSTGRESQL-090909?style=for-the-badge&logo=POSTGRESQL&logoColor=)
 ![GITHUB](https://shields.fly.dev/badge/-GITHUB-090909?style=for-the-badge&logo=GITHUB&logoColor=)
